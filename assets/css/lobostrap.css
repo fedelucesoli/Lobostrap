@@ -1,0 +1,57 @@
+
+/*// Header*/
+
+.navbar-default{
+  border-radius: 0;
+  font-family: "Montserrat";
+}
+.navbar-lobos{
+  margin-left: 0;
+  margin-bottom: 0;
+  border-bottom: 3px solid #EE3A39;
+
+}
+.navbar-lobos .navbar-brand{
+  height: 100px;
+}
+
+.navbar-toggle{
+	margin: 
+}
+
+/* Noticias */
+.thumb-noticia{
+	min-height: 400px;
+}
+
+
+/* Slider */
+.slider{
+	padding-top: 250px;
+}
+
+/* Botonera */
+.botonera{
+	background: rgba(84,99,114,0.52);
+}
+.boton{
+	text-align: center;
+	padding: 50px 0;
+}
+.boton .fa{
+	margin-bottom: 5px;
+}
+.boton:hover{
+	background: rgba(84,99,114,0.52);
+}
+
+/* Footer */
+footer{
+	padding: 30px 0 80px;
+	margin-top: 80px;
+	border-top: 1px solid #EE3A39;
+
+}
+ footer .navbar-default{
+ 	border: none;
+ }

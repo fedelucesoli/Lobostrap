@@ -1,0 +1,20 @@
+{
+  "name": "lobostrap",
+  "description": "Stylesheet - Lobostrap - Dirección de Modernización - Secretaria de Gobierno - Municipio de Lobos",
+  "main": "index.js",
+  "authors": [
+    "Federico Lucesoli"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
