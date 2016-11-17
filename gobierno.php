@@ -66,7 +66,7 @@
 			  </div>
 			  <div class="media-body">
 			    <h5 class="text-primary">Secretaria de Seguridad</h5>
-			    <h4>No me acuerdo el nombre</h4>
+			    <h4>Julio Rustom</h4>
 			  </div>
 			</div>
 		</div>
